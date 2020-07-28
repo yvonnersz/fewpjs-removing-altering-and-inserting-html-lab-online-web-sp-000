@@ -2,4 +2,4 @@
 
 main.remove();
 
-const newHeader = document.body.appendChild('h1#victory');
+let newHeader = document.body.appendChild('h1#victory');
